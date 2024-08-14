@@ -1,1 +1,2 @@
 # OSE-coaching
+Email template
